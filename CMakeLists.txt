@@ -7,3 +7,4 @@ include_directories(.)
 
 add_executable(main main.cpp)
 add_executable(sstream stringstream_math.cpp)
+add_executable(sort sort.cpp)
